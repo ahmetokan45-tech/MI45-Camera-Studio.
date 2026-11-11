@@ -1,7 +1,9 @@
-Version: 2.0.0
+Name: AHM3T BACKGROUND
+Version: 2.0.1
 Paket: de.mi45.camerastudio
-Basis: MI45_Camera_Studio_V2.html
-Build: Nicht ausgeführt (Android SDK/Gradle nicht installiert)
-APK: Nicht enthalten
-Tests: Projektstruktur und HTML-Asset geprüft; Android-Laufzeit ungetestet
-Original MI45 Rear Studio: unverändert
+Features: Fullscreen background, camera contour styles, effects, color wheel, favorites, local design save/load, SVG/PNG/JSON export
+Limitations: Editor-only WebView prototype. No actual rear-display integration; audio spectrum is simulated. Camera geometry is illustrative, not hardware calibrated.
+Build: Pending GitHub Actions verification
+APK: Pending
+Tests: Not yet verified on Xiaomi 17 Pro Max
+Original MI45 Rear Studio: unchanged
